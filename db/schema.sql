@@ -1,0 +1,7 @@
+DROP DATABASE IF EXISTS WeMove;
+CREATE DATABASE WeMove;
+USE WeMove;
+
+CREATE TABLE Poulation(
+    
+);
